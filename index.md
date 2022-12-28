@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: This is the personal website of Prashanth Rao
 ---
 
