@@ -1,5 +1,5 @@
 ---
 title: Prashanth Rao
 ---
-[About me](about-me.png)
+![About me](/about-me.png)
 
