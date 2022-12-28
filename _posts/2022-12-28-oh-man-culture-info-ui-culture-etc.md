@@ -1,5 +1,5 @@
 ---
-title: "OH MAN! CULTURE, UI CULTURE, INVARIANT CULTURE, IFORMATPROVIDER..."
+title: "OH MAN! Current Culture, Current UI Culture, Invariant Culture, IFormatProvider..."
 date: 2022-12-28
 ---
 
